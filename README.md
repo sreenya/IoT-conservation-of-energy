@@ -1,4 +1,9 @@
-﻿* Ultrasonic sensor senses the distance of object every 0.3 seconds
+# Conservation of energy using a conveyor belt
+## Overview
+
+ 
+ 
+* Ultrasonic sensor senses the distance of object every 0.3 seconds
 * When the distance sensor becomes zero on the left side, clockwise conveyor belt motor is triggered.
 * The object is lifted up the left ramp by conveyor belt.
 * The conveyor belt stops when the object reaches the top of the left ramp. 
